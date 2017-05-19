@@ -1,6 +1,6 @@
 # Redesign Course Webpage
 
-<img src=‘demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Summary
 I chose to redesign the [CS 330: Design and Analysis of Algorithms website](https://www.cs.duke.edu/courses/compsci330/spring17/). The original site is simply one long page with no interactivity. Formatting is done via html tables.
