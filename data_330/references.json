@@ -1,0 +1,13 @@
+{
+  "Textbooks": [
+    "[DPV] S. Dasgupta, C. Papadimitriou, and U. Vazirani. Algorithms. McGraw Hill, 2006.",
+    "[KT] J. Kleinberg and E. Tardos. Algorithm Design. Addison Wesley, 2005.",
+    "[CLRS] T. Cormen, C. Leiserson, R. Rivest, and C. Stein. Introduction to Algorithms. MIT Press, 2009."
+  ],
+  "Additional References": [
+    "[AHU] A. Aho, J. Hopcroft, and J. Ullman. Design and Analysis of Algorithms. Addison Wesley 1974.",
+    "[Ed] H. Edelsbrunner. CPS230 Lecture Notes. Duke University, 2008.",
+    "[Er] J. Erickson. CPS473G: Algorithms Lecture Notes. UIUC.",
+    "[Ta] R. E. Tarjan. Data Structures and Network Algorithms. Society for Industrial Mathematics, 1987."
+  ]
+}

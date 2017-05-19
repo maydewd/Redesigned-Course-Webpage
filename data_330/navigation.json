@@ -1,0 +1,30 @@
+{
+  "courseName": "CS330: Design and Analysis of Algorithms (Spring 17)",
+  "links": [
+    {
+        "name" : "Overview",
+        "url" : "#overview"
+    },
+    {
+        "name" : "Grading",
+        "url" : "#grading"
+    },
+    {
+        "name" : "Announcements",
+        "url" : "#announcements"
+    },
+    {
+        "name" : "Homework",
+        "url" : "#homework"
+    },
+    {
+        "name" : "Courseplan",
+        "url" : "#courseplan"
+    },
+    {
+        "name" : "References",
+        "url" : "#references"
+    }
+  ]
+
+}

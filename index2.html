@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="author" content="David Maydew" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
+    <link rel="stylesheet/less" type="text/css" href="css/style.less" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/less.js/2.7.2/less.min.js"></script>
+    <!-- use require to manage dependencies between modules instead of listing them all here -->
+    <!-- load JSON data specific to this page (note the ID and extra attributes) -->
+    <script id="script" data-main="js/index" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.3/require.min.js" theme="530"></script>
+
+    <title>Course Homepage</title>
+</head>
+
+<body>
+    <nav class="navbar fixed-top navbar-toggleable-md navbar-light bg-faded">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#page-links-navbar" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a id="courseName" class="navbar-brand" href="#"></a>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse justify-content-end" id="page-links-navbar">
+            <ul id="js-navigation" class="navbar-nav navbar-right">
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <noscript>
+          <div class="alert alert-danger">
+              <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+              <span>[Enable JavaScript for this page to display properly]</span>
+          </div>
+        </noscript>
+        <div id="sections">
+        </div>
+    </div>
+</body>
+
+</html>

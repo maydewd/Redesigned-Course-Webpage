@@ -1,0 +1,76 @@
+{
+  "synopsis" : {
+    "text": "Algorithms are a cornerstone of computational sciences and the need for efficient algorithms is ubiquitous in modern technology. However, the primary goals of algorithm design, the resources that need to be optimized, and even the model of computation varies widely between application areas. In this course, we will study some of the fundamental principles of algorithm design that appear in multiple areas and have had broad impact. In addition, we will focus on the mathematical tools that are frequently used in the theoretical analysis of algorithms, and study how such analysis, in turn, influences algorithm design. The course will be at an undergraduate level.",
+    "objectives": ["Provide basic training in algorithm design for a future computer scientist and/or programmer","Expose future professionals in other disciplines to fundamental algorithmic paradigms"],
+    "topics": [
+      "Introduction: History of Algorithms, Asymptotic and Worst-case Analysis",
+      "Algorithm Design Techniques: Divide and Conquer (Recurrences), Dynamic Programming and Memoization, Greedy Algorithms",
+      "Graph Algorithms: Graph Representations, Graph Traversal and Applications, Shortest Path, Minimum Spanning Tree, Network Flows",
+      "Data Structures: Amortization and Potential Functions, Union-Find",
+      "Computational Geometry: Convex hull",
+      "Randomized Algorithms: Monte Carlo and Las Vegas Algorithms, Hashing",
+      "Linear Programming: Simplex Algorithms, LP Duality",
+      "Intractability: P and NP, NP-completeness, Polynomial-time Reductions, Approximation Algorithms"
+    ],
+    "prerequisites": ["COMPSCI 201 Data Structures and Algorithms","COMPSCI 230 Discrete Math for Computer Science"]
+  },
+  "staff" : {
+    "Instructor": [
+      {
+        "name": "Debmalya Panigrahi",
+        "webpage": "http://www.cs.duke.edu/~debmalya/",
+        "location": "LSRC D203",
+        "email": "debmalya@cs.duke.edu",
+        "office_hours": "Mondays at 11:30 am - 12:30 pm in LSRC D203"
+      }
+    ],
+    "Graduate Teaching Assistants (TAs)": [
+      {
+        "name": "Abraham (Abe) Frandsen",
+        "webpage": "https://users.cs.duke.edu/~abef/",
+        "location": "North 001",
+        "email": "abef@cs.duke.edu",
+        "office_hours": "Sundays at 8 - 9 pm in LSRC A155 and Tuesdays at 1:30 - 2:30 pm in North D306"
+      }, {
+        "name": "Tianyu Wang",
+        "webpage": "https://www.cs.duke.edu/~tianyu/",
+        "location": "North 003",
+        "email": "tianyu@cs.duke.edu",
+        "office_hours": "Wednesdays at 4:30 - 5:30 pm in LSRC D301 and Thursdays at 5 - 6 pm in LSRC D301"
+      }
+    ],
+    "Undergraduate Teaching Assistants (UTAs)": [
+      {
+        "name": "Paul Cruz",
+        "email": "pbc8@duke.edu",
+        "office_hours": "Sundays at 9:30 - 10:30 pm in LSRC A155"
+      }, {
+        "name": "Arun Ganesh",
+        "email": "ag310@duke.edu",
+        "office_hours": "Wednesdays at 7:30 - 8:30 pm in LSRC A155"
+      }, {
+        "name": "Erin Taylor",
+        "email": "ect15@duke.edu",
+        "office_hours": "Mondays at 8 - 9 pm in LSRC A155"
+      }, {
+        "name": "Patrick Terry",
+        "email": "patrick.terry@duke.edu",
+        "office_hours": "Thursdays at 8:30 - 9:30 pm in LSRC A155"
+      }, {
+        "name": "Narongsak (Army) Tunjaicon",
+        "email": "narongsak.tunjaicon@duke.edu",
+        "office_hours": "Sundays at 4 - 5 pm in LSRC A247"
+      }, {
+        "name": "Weiyao Wang",
+        "email": "weiyao.wang@duke.edu",
+        "office_hours": "Tuesday at 8 - 9 pm in LSRC A155"
+      }, {
+        "name": "Haofeng (Fred) Zhang",
+        "email": "h.z@duke.edu",
+        "office_hours": "Thursdays at 7:30 - 8:30 pm in LSRC A155"
+      }
+    ]
+  },
+  "lectures": "French Science 2231 on Mondays and Wednesdays at 10:05 - 11:20 am",
+  "recitations": ["French Science 2231 on Fridays at 10:05 - 11:20 am", "SocSci 136 on Fridays at 3:05 - 4:20 pm"]
+}

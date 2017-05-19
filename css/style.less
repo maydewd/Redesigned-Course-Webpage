@@ -1,0 +1,70 @@
+/*
+ * @author David Maydew
+ */
+/*
+ * This LESS file defines ALL variables used in the theme.
+ * Each theme may override them to customize the look.
+ */
+@import "variables";
+
+body {
+    // Allow for fixed nav bar
+    padding-top: 70px;
+    background-image: url("@{background-image}");
+}
+
+section {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: rgba(255,255,255,0.92);
+}
+
+ul {
+    padding-left: 10px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 2px;
+}
+
+p {
+    margin-bottom: 0.5rem;
+}
+/* change the brand and text color */
+.navbar-brand {
+    color: @navbar-color !important;
+}
+
+.man-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.man-flex > div {
+    text-align: center;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    width: 300px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.man-flex > div:hover {
+    background-color: lightgrey;
+}
+/* hide overview section for smaller devices */
+@media screen and (max-width: 992px) {
+    li#Overview,
+    section#overview {
+        display: none;
+    }
+}

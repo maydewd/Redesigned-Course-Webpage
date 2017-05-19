@@ -1,0 +1,68 @@
+{
+  "info": [
+    "Collaborations and Honesty: Review the detailed guidelines on collaboration. Any violation of these guidelines will be reported without exception to the relevant authorities. This has led to disciplinary action in the past, so better be safe than sorry.",
+    "Late Submissions: Homework solutions must be submitted by 11:55 pm Durham (Eastern) time on the due date. You will get no credit if you submit your homework after the submission deadline. A submission will be considered late if the submission website (Sakai) marks it as late. This means that it is in your best interest to submit sufficiently early so that there is no possibility of the Sakai server receiving it after 11:55 pm.",
+    "Extensions: In exceptional circumstances, you can contact the instructor before the submission deadline to request an extension. You should send an email to the instructor if you are requesting an extension, with a clearly stated reason for your request. Requests for extension are at the discretion of the instructor and may be refused. This implies that last-minute requests for extension are at your own peril, since the original deadline will stand if the request is denied. Only the written consent of the instructor granting an extension will be considered valid. Nobody other than the instructor (TA, UTA, etc.) is authorized to grant an extension.",
+    "Submission Website: We will use Sakai for homework submission.",
+    "Submission Format: The homework solutions have to be typed. It is strongly encouraged that you prepare your homework submissions in LaTeX."
+  ],
+  "assignments": [
+    {
+      "name": "Homework 1",
+      "link": "https://www.cs.duke.edu/courses/compsci330/current/homeworks/hw1.pdf",
+      "released": "1/11",
+      "due": "1/18"
+    }, {
+      "name": "Homework 2",
+      "link": "https://www.cs.duke.edu/courses/compsci330/current/homeworks/hw2.pdf",
+      "released": "1/18",
+      "due": "1/25"
+    }, {
+      "name": "Homework 3",
+      "link": "https://www.cs.duke.edu/courses/compsci330/current/homeworks/hw3.pdf",
+      "released": "1/25",
+      "due": "2/1"
+    }, {
+      "name": "Homework 4",
+      "link": "https://www.cs.duke.edu/courses/compsci330/current/homeworks/hw4.pdf",
+      "released": "2/1",
+      "due": "2/8"
+    }, {
+      "name": "Homework 5",
+      "link": "https://www.cs.duke.edu/courses/compsci330/current/homeworks/hw5.pdf",
+      "released": "2/8",
+      "due": "2/15"
+    }, {
+      "name": "Homework 6",
+      "link": "https://www.cs.duke.edu/courses/compsci330/current/homeworks/hw6.pdf",
+      "released": "2/15",
+      "due": "2/27"
+    }, {
+      "name": "Homework 7",
+      "link": "https://www.cs.duke.edu/courses/compsci330/current/homeworks/hw7.pdf",
+      "released": "2/27",
+      "due": "3/6"
+    }, {
+      "name": "Homework 8",
+      "link": "https://www.cs.duke.edu/courses/compsci330/current/homeworks/hw8.pdf",
+      "released": "3/6",
+      "due": "3/22"
+    }, {
+      "name": "Homework 9",
+      "released": "3/22",
+      "due": "4/3"
+    }, {
+      "name": "Homework 10",
+      "released": "4/3",
+      "due": "4/17"
+    }, {
+      "name": "Homework 11",
+      "released": "4/17",
+      "due": "4/24"
+    }, {
+      "name": "Homework 12",
+      "released": "4/24",
+      "due": "Optional"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "exams": ["2/22 Midterm 1: Lectures 1-11", "4/12 Midterm 2: Lectures 12-22", "Final Exam: All Lectures - Time: May 1, 9am-12pm - Location: French Science 2231"],
+  "material": {
+    "Introduction": {
+      "lectures": [{
+        "number": "1",
+        "date": "1/11",
+        "topic": "History of Algorithms; Asymptotic Notation; Worst-case Analysis",
+        "notes_link": "https://www.cs.duke.edu/courses/compsci330/current/Notes/introduction.pdf",
+        "references": "DPV: 0, 2 KT: 2 CLRS: 1, 2, 3, 4"
+        }],
+      "recitations": [{
+        "number": "1",
+        "date": "1/13",
+        "topic": "Induction, big-Oh notation",
+        "notes_link": "https://www.cs.duke.edu/courses/compsci330/current/discussions/Dis1.pptx"
+        }]
+    },
+    "Randomized Algorithms": {
+      "lectures": [{
+        "number": "16",
+        "date": "3/20",
+        "topic": "Random processes: Birthday Paradox, Coupon Collector, Balls in Bins",
+        "notes_link": "https://www.cs.duke.edu/courses/compsci330/current/Notes/RP.pdf",
+        "references": "DPV: virtual chapter KT: 13 CLRS: 5, 11"
+        }, {
+        "number": "17",
+        "date": "3/22",
+        "topic": "Hashing",
+        "notes_link": "https://www.cs.duke.edu/courses/compsci330/current/Notes/hashing.pdf",
+        "references": "DPV: virtual chapter KT: 13 CLRS: 5, 11"
+        }, {
+        "number": "18,19",
+        "date": "3/27, 3/29",
+        "topic": "Las Vegas and Monte Carlo Algorithms",
+        "notes_link": "https://www.cs.duke.edu/courses/compsci330/current/Notes/LVMC.pdf",
+        "references": "DPV: virtual chapter KT: 13 CLRS: 5, 11"
+        }],
+      "recitations": []
+    },
+    "Linear Programming": {
+      "lectures": [{
+        "number": "20",
+        "date": "4/3",
+        "topic": "LP Formulations, Integer Linear Program",
+        "notes_link": "https://www.cs.duke.edu/courses/compsci330/current/Notes/LP.pdf",
+        "references": "CLRS: 29"
+        }, {
+        "number": "21",
+        "date": "4/5",
+        "topic": "LP Duality",
+        "notes_link": "https://www.cs.duke.edu/courses/compsci330/current/Notes/LPDU.pdf",
+        "references": "CLRS: 29"
+        }, {
+        "number": "22",
+        "date": "4/10",
+        "topic": "LP Algorithms, Simplex Algorithms, Separation Oracles",
+        "notes_link": "https://www.cs.duke.edu/courses/compsci330/current/Notes/LPDU.pdf",
+        "references": "CLRS: 29"
+        }],
+      "recitations": []
+    },
+    "Intractability": {
+      "lectures": [{
+        "number": "23",
+        "date": "4/17",
+        "topic": "Complexity Classes P and NP, Polynomial-time Reductions",
+        "notes_link": "https://www.cs.duke.edu/courses/compsci330/current/Notes/CC.pdf",
+        "references": "DPV: 8 KT: 8 CLRS: 34"
+        }, {
+        "number": "24",
+        "date": "4/19",
+        "topic": "Approximation Algorithms: Vertex Cover, Set Cover, TSP",
+        "notes_link": "https://www.cs.duke.edu/courses/compsci330/current/Notes/APPR.pdf",
+        "references": "DPV: 8, 9 KT: 8, 11 CLRS: 34, 35"
+        }],
+      "recitations": []
+    }
+  }
+}
